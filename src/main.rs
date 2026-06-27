@@ -4,7 +4,6 @@ use std::path::PathBuf;
 
 mod git;
 mod ui;
-pub mod graph;
 
 #[derive(Parser)]
 struct Args {
