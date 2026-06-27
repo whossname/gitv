@@ -1,0 +1,11 @@
+/home/tyson/data/source/personal/gitv/target/debug/deps/futures_lite-2560cc2c76d3a654.d: /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/lib.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/future.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/prelude.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/stream.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/io.rs
+
+/home/tyson/data/source/personal/gitv/target/debug/deps/libfutures_lite-2560cc2c76d3a654.rlib: /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/lib.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/future.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/prelude.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/stream.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/io.rs
+
+/home/tyson/data/source/personal/gitv/target/debug/deps/libfutures_lite-2560cc2c76d3a654.rmeta: /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/lib.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/future.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/prelude.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/stream.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/io.rs
+
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/lib.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/future.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/prelude.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/stream.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/io.rs:

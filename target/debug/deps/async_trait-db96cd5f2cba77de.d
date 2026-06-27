@@ -1,0 +1,12 @@
+/home/tyson/data/source/personal/gitv/target/debug/deps/async_trait-db96cd5f2cba77de.d: /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/lib.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/args.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/bound.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/expand.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/lifetime.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/parse.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/receiver.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/verbatim.rs
+
+/home/tyson/data/source/personal/gitv/target/debug/deps/libasync_trait-db96cd5f2cba77de.so: /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/lib.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/args.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/bound.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/expand.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/lifetime.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/parse.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/receiver.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/verbatim.rs
+
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/lib.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/args.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/bound.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/expand.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/lifetime.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/parse.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/receiver.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-trait-0.1.89/src/verbatim.rs:

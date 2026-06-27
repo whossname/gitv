@@ -1,0 +1,13 @@
+/home/tyson/data/source/personal/gitv/target/debug/deps/half-6a59ea4257edf172.d: /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/lib.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/bfloat.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/bfloat/convert.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/binary16.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/binary16/arch.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/binary16/arch/x86.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/leading_zeros.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/slice.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/vec.rs
+
+/home/tyson/data/source/personal/gitv/target/debug/deps/libhalf-6a59ea4257edf172.rmeta: /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/lib.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/bfloat.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/bfloat/convert.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/binary16.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/binary16/arch.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/binary16/arch/x86.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/leading_zeros.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/slice.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/vec.rs
+
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/lib.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/bfloat.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/bfloat/convert.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/binary16.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/binary16/arch.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/binary16/arch/x86.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/leading_zeros.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/slice.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/half-2.7.1/src/vec.rs:

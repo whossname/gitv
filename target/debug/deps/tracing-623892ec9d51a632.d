@@ -1,0 +1,12 @@
+/home/tyson/data/source/personal/gitv/target/debug/deps/tracing-623892ec9d51a632.d: /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/lib.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/macros.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/dispatcher.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/field.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/instrument.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/level_filters.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/span.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/subscriber.rs
+
+/home/tyson/data/source/personal/gitv/target/debug/deps/libtracing-623892ec9d51a632.rmeta: /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/lib.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/macros.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/dispatcher.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/field.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/instrument.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/level_filters.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/span.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/subscriber.rs
+
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/lib.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/macros.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/dispatcher.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/field.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/instrument.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/level_filters.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/span.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.44/src/subscriber.rs:

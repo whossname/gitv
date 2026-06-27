@@ -1,0 +1,12 @@
+/home/tyson/data/source/personal/gitv/target/debug/deps/drm_ffi-840443f2c4807794.d: /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/lib.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/utils.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/gem.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/ioctl.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/mode.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/syncobj.rs
+
+/home/tyson/data/source/personal/gitv/target/debug/deps/libdrm_ffi-840443f2c4807794.rlib: /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/lib.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/utils.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/gem.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/ioctl.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/mode.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/syncobj.rs
+
+/home/tyson/data/source/personal/gitv/target/debug/deps/libdrm_ffi-840443f2c4807794.rmeta: /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/lib.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/utils.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/gem.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/ioctl.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/mode.rs /home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/syncobj.rs
+
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/lib.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/utils.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/gem.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/ioctl.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/mode.rs:
+/home/tyson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/drm-ffi-0.9.1/src/syncobj.rs:
