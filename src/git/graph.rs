@@ -76,8 +76,8 @@ fn walk_commits(repo: &Repository) -> Result<Vec<CommitNode>, git2::Error> {
         let Ok(obj) = reference.peel(git2::ObjectType::Commit) else { continue };
         let oid_str = obj.id().to_string();
 
-        let kind = if name == "HEAD" {
-            continue; // HEAD handled separately below
+        let kind = if name == "HEAD" || name.ends_with("/HEAD") {
+            continue;
         } else if name.starts_with("refs/tags/") {
             RefKind::Tag
         } else if name.starts_with("refs/remotes/") {
